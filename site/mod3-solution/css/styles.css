@@ -1,0 +1,46 @@
+#company-name{
+    margin-bottom: 15px;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+h2{
+    margin-bottom: 15px;
+}
+
+h4{
+    font-weight: bold;
+}
+
+#header-nav{
+    border-radius: 0;
+    border: 0;
+    background-color: aquamarine;
+}
+
+#menu-list{
+    background-color: darkkhaki;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#menu-list a{
+    text-align: center;
+    color: crimson;
+}
+
+#main-block{
+    width: 96%;
+    margin-bottom: 15px;
+}
+
+#menu-descr{
+    background-color: darkseagreen;
+    height: 1000px;
+}
+
+#menu-descr section
+{
+    margin-left: 15px;
+    margin-right: 15px;
+}
